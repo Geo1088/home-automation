@@ -1,0 +1,8 @@
+{
+  "name": "home-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Geo1088/home-automation.git",
+  "author": "Geo1088 <georgej1088@gmail.com>",
+  "license": "MIT"
+}
